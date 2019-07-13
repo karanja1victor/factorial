@@ -1,0 +1,24 @@
+{
+  "name": "karanja1victor-factorial",
+  "version": "0.1.0",
+  "description": "finds the factorial of a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanja1victor/factorial.git"
+  },
+  "keywords": [
+    "factorial",
+    "coderbyte",
+    "javascript"
+  ],
+  "author": "Victor Karanja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanja1victor/factorial/issues"
+  },
+  "homepage": "https://github.com/karanja1victor/factorial#readme"
+}
